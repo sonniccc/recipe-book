@@ -1,4 +1,4 @@
-export type Meals = {
+export type Meal = {
   idMeal: string;
   strMeal: string;
   strMealAlternate?: any;
@@ -55,5 +55,5 @@ export type Meals = {
 }
 
 export type RemoteRandomMeal = {
-  meals: Meals[];
+  meals: Meal[];
 }
