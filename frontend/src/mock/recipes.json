@@ -1,0 +1,90 @@
+[
+    {
+        "id": "1",
+        "name": "Spaghetti Carbonara",
+        "description": "A classic Italian pasta dish made with eggs, cheese, pancetta, and pepper.",
+        "ingredients": [
+            "200|g||spaghetti",
+            "100|g||pancetta",
+            "2|||eggs",
+            "50|g|grated|Parmesan cheese",
+            "1|tsp||Salt"
+        ],
+        "instructions": [
+            "Cook the spaghetti according to the package instructions until al dente.",
+            "In a pan, cook the pancetta until crispy. Remove from heat and set aside.",
+            "In a bowl, whisk together the eggs and grated Parmesan cheese.",
+            "Drain the spaghetti and return it to the pot. Add the pancetta and egg mixture to the spaghetti, tossing quickly to combine. The heat from the pasta will cook the eggs and create a creamy sauce.",
+            "Season with salt and pepper to taste. Serve immediately."
+        ],
+        "thumbnail": "https://www.inspiredtaste.net/wp-content/uploads/2019/03/Spaghetti-with-Meat-Sauce-Recipe-1-1200.jpg",
+        "prepTime": "20|minutes|",
+        "Author_ID": "1"
+    },
+    {
+        "id": "2",
+        "name": "Spaghetti Carbonara",
+        "description": "A classic Italian pasta dish made with eggs, cheese, pancetta, and pepper.",
+        "ingredients": [
+            "200|g||spaghetti",
+            "100|g||pancetta",
+            "2|||eggs",
+            "50|g|grated|Parmesan cheese",
+            "1|tsp||Salt"
+        ],
+        "instructions": [
+            "Cook the spaghetti according to the package instructions until al dente.",
+            "In a pan, cook the pancetta until crispy. Remove from heat and set aside.",
+            "In a bowl, whisk together the eggs and grated Parmesan cheese.",
+            "Drain the spaghetti and return it to the pot. Add the pancetta and egg mixture to the spaghetti, tossing quickly to combine. The heat from the pasta will cook the eggs and create a creamy sauce.",
+            "Season with salt and pepper to taste. Serve immediately."
+        ],
+        "thumbnail": "https://www.inspiredtaste.net/wp-content/uploads/2019/03/Spaghetti-with-Meat-Sauce-Recipe-1-1200.jpg",
+        "prepTime": "20|minutes|",
+        "Author_ID": "1"
+    },
+    {
+        "id": "3",
+        "name": "Spaghetti Carbonara",
+        "description": "A classic Italian pasta dish made with eggs, cheese, pancetta, and pepper.",
+        "ingredients": [
+            "200|g||spaghetti",
+            "100|g||pancetta",
+            "2|||eggs",
+            "50|g|grated|Parmesan cheese",
+            "1|tsp||Salt"
+        ],
+        "instructions": [
+            "Cook the spaghetti according to the package instructions until al dente.",
+            "In a pan, cook the pancetta until crispy. Remove from heat and set aside.",
+            "In a bowl, whisk together the eggs and grated Parmesan cheese.",
+            "Drain the spaghetti and return it to the pot. Add the pancetta and egg mixture to the spaghetti, tossing quickly to combine. The heat from the pasta will cook the eggs and create a creamy sauce.",
+            "Season with salt and pepper to taste. Serve immediately."
+        ],
+        "thumbnail": "https://www.inspiredtaste.net/wp-content/uploads/2019/03/Spaghetti-with-Meat-Sauce-Recipe-1-1200.jpg",
+        "prepTime": "20|minutes|",
+        "Author_ID": "2"
+    },
+    {
+        "id": "4",
+        "name": "Spaghetti Carbonara",
+        "description": "A classic Italian pasta dish made with eggs, cheese, pancetta, and pepper.",
+        "ingredients": [
+            "200|g||spaghetti",
+            "100|g||pancetta",
+            "2|||eggs",
+            "50|g|grated|Parmesan cheese",
+            "1|tsp||Salt"
+        ],
+        "instructions": [
+            "Cook the spaghetti according to the package instructions until al dente.",
+            "In a pan, cook the pancetta until crispy. Remove from heat and set aside.",
+            "In a bowl, whisk together the eggs and grated Parmesan cheese.",
+            "Drain the spaghetti and return it to the pot. Add the pancetta and egg mixture to the spaghetti, tossing quickly to combine. The heat from the pasta will cook the eggs and create a creamy sauce.",
+            "Season with salt and pepper to taste. Serve immediately."
+        ],
+        "thumbnail": "",
+        "prepTime": "20|minutes|",
+        "Author_ID": "2"
+    }
+]

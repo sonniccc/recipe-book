@@ -1,0 +1,21 @@
+.page {
+  padding: 1rem;
+}
+
+.page h2 {
+  margin-top: 0;
+}
+
+.field {
+  margin-bottom: 0.75rem;
+}
+
+.main-nav {
+  padding: 0.5rem 1rem;
+}
+
+.main-nav a {
+  margin-right: 0.5rem;
+  text-decoration: none;
+  color: #0366d6;
+}
